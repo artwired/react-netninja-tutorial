@@ -1,16 +1,28 @@
 {
-    "blogs": [
-        {
-            "title": "My First Blog",
-            "body": "Why do we use it?\nIt is a long established fact that a reader will be distracted",
-            "author": "mario",
-            "id": 1
-        },
-        {
-            "title": "Opening Party!",
-            "body": "Why do we use it?\nIt is a long established fact that the reader will be distracted",
-            "author": "yoshi",
-            "id": 2
-        }
-    ]
+  "blogs": [
+    {
+      "title": "My First Blog",
+      "body": "It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters, as opposed to using 'Content here, content here', making it look like readable English. Many desktop publishing packages and web page editors now use Lorem Ipsum as their default model text, and a search for 'lorem ipsum' will uncover many web sites still in their infancy. Various versions have evolved over the years, sometimes by accident, sometimes on purpose (injected humour and the like).",
+      "author": "mario",
+      "id": 1
+    },
+    {
+      "title": "Opening Party!",
+      "body": "It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters, as opposed to using 'Content here, content here', making it look like readable English. Many desktop publishing packages and web page editors now use Lorem Ipsum as their default model text, and a search for 'lorem ipsum' will uncover many web sites still in their infancy. Various versions have evolved over the years, sometimes by accident, sometimes on purpose (injected humour and the like).",
+      "author": "yoshi",
+      "id": 2
+    },
+    {
+      "title": "You Can't Beat Me Luigi!!",
+      "body": "I know we've been racing each other since the beginning of time and you've tried and tried and sometime you've gotten very close! But now, as always I have beaten you once more.. better luck next time Luigi! Although I'm most certain your hopes will once again be dashed hehe",
+      "author": "mario",
+      "id": 3
+    },
+    {
+      "title": "Mario, you make me sick!",
+      "body": "Nice comment Mario. You think you're better than me?! You're time is coming. I have been practicing all day every day for months and I'm confident the next time we meet you will eat my dust. I can't wait to leave you in tears at the finish line LMAO",
+      "author": "yoshi",
+      "id": 4
+    }
+  ]
 }
